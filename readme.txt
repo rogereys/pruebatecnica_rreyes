@@ -1,3 +1,13 @@
+### Prueba Técnica Roger Reyes ###
+Les adjunto proyecto de prueba
+Se uso API: "https://rickandmortyapi.com/"
+Vistas y Controller
+- WorkList
+- Object
+
+
+
+
 #### SAP Fiori Worklist Application Template ####
 
 This is your copy of the "SAP Fiori Worklist Application" template - ready for your custom developments!
